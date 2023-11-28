@@ -12,4 +12,7 @@ Portofolio Front End
 [Landing Page](https://fafifu.vercel.app) - HTML, TailwindCSS, JavaScript
 \
 [Landing Page 2](https://fafifu.vercel.app/welltenan.html) - HTML, TailwindCSS
+\
 [Login, User detail](https://v-fe-test.netlify.app/) - ReactJS, Tailwind
+\
+[Latandaseru (Unfinished)](https://latandaserusite.vercel.app/) - NextJS, TailwindCSS
