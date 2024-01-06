@@ -1,7 +1,7 @@
 Portofolio Front End
 \
 \
-[Blog](https://fala.my.id) - Built with Nuxtjs, TailwindCSS, Markdown
+[Blog](https://falasyam.my.id/blog) - Built with Nuxtjs, TailwindCSS, Markdown
 \
 [Shania Gracia Fansite](https://shaniagracia.vercel.app) - Built with Next.JS, TailwindCSS, API
 \
